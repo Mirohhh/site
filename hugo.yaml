@@ -10,7 +10,7 @@ params:
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
   editPost:
-    URL: "https://github.com/Mirohhh/site/content"
+    URL: "https://github.com/Mirohhh/site/blob/master/content/"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
