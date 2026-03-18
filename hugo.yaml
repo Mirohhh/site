@@ -2,6 +2,22 @@ baseURL: "https://omarshabana.netlify.app/"
 locale: en-us
 title: Omar Shabana
 theme: ["PaperMod"]
+menu:
+  main:
+    - name: Archive
+      url: archives
+      weight: 5
+    - name: Search
+      url: search/
+      weight: 10
+    - name: Tags
+      url: tags/
+      weight: 10
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
 params:
   ShowReadingTime: true
   ShowToc: true
@@ -9,6 +25,8 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
   editPost:
     URL: "https://github.com/<path_to_repo>/content"
     Text: "Suggest Changes" # edit text
@@ -22,4 +40,4 @@ params:
     - name: "github"
       url: "https://github.com/Mirohhh"
     - name: "linkedin"
-      url: "www.linkedin.com/in/omar-shabana11"
+      url: "https://linkedin.com/in/omar-shabana11"

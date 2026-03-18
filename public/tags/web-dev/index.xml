@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Web Dev on Omar Shabana</title>
-    <link>https://omarshabana.netlify.app/tags/web-dev/</link>
+    <link>http://localhost:1313/tags/web-dev/</link>
     <description>Recent content in Web Dev on Omar Shabana</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Mar 2026 23:53:55 +0200</lastBuildDate>
-    <atom:link href="https://omarshabana.netlify.app/tags/web-dev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/web-dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>React&#39;s useEffect hook</title>
-      <link>https://omarshabana.netlify.app/posts/my-third-post/</link>
+      <link>http://localhost:1313/posts/my-third-post/</link>
       <pubDate>Wed, 18 Mar 2026 23:53:55 +0200</pubDate>
-      <guid>https://omarshabana.netlify.app/posts/my-third-post/</guid>
+      <guid>http://localhost:1313/posts/my-third-post/</guid>
       <description>&lt;p&gt;React&amp;rsquo;s &lt;code&gt;useEffect&lt;/code&gt; hook is a powerful tool for managing side effects in functional components. It allows you to perform tasks like data fetching, subscriptions, or manual DOM manipulations after the component has rendered.&lt;/p&gt;
 &lt;h3 id=&#34;basic-syntax&#34;&gt;Basic Syntax&lt;/h3&gt;
 &lt;p&gt;The &lt;code&gt;useEffect&lt;/code&gt; hook accepts two arguments: a function for the effect and an optional array of dependencies.&lt;/p&gt;
