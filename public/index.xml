@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Omar Shabana</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Omar Shabana</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Mar 2026 23:53:55 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>React&#39;s useEffect hook</title>
+      <link>http://localhost:1313/posts/my-third-post/</link>
+      <pubDate>Wed, 18 Mar 2026 23:53:55 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-third-post/</guid>
+      <description>&lt;p&gt;React&amp;rsquo;s &lt;code&gt;useEffect&lt;/code&gt; hook is a powerful tool for managing side effects in functional components. It allows you to perform tasks like data fetching, subscriptions, or manual DOM manipulations after the component has rendered.&lt;/p&gt;
+&lt;h3 id=&#34;basic-syntax&#34;&gt;Basic Syntax&lt;/h3&gt;
+&lt;p&gt;The &lt;code&gt;useEffect&lt;/code&gt; hook accepts two arguments: a function for the effect and an optional array of dependencies.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;useEffect&lt;/span&gt;(() =&amp;gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#75715e&#34;&gt;// Side effect logic goes here
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}, [&lt;span style=&#34;color:#a6e22e&#34;&gt;dependencies&lt;/span&gt;]);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;dependency-behaviors&#34;&gt;Dependency Behaviors&lt;/h3&gt;
+&lt;p&gt;The way &lt;code&gt;useEffect&lt;/code&gt; triggers depends on the dependency array provided:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/posts/my-second-post/</link>
+      <pubDate>Wed, 18 Mar 2026 23:51:59 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hello world! This is my first blog post.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+baseURL: "https://omarshabana.netlify.app/"
+locale: en-us
+title: Omar Shabana
+theme: ["PaperMod"]
+params:
+  ShowReadingTime: true
+  ShowToc: true
+  ShowBreadCrumbs: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  editPost:
+    URL: "https://github.com/<path_to_repo>/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  homeInfoParams:
+    Title: Hi there!
+    Content: My name is Omar. I'm a Software Engineer from Egypt. I'm interested in web, mobile development and ML/AI.
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/omarshabana"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/omarshabana/"
