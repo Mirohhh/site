@@ -5,4 +5,7 @@ draft: false
 ---
 
 Hello world! This is my first blog post.
- potato
+### This is a test for fork syncing
+what should happen:
+- changes on upstream sync with fork every hour
+- website content should update
