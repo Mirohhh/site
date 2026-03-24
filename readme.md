@@ -2,7 +2,7 @@
 
 A personal blog built with [Hugo](https://gohugo.io/) and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme. Posts cover software engineering topics including web development, React, and ML/AI.
 
-🌐 **Live site:** [omarshabana.netlify.app](https://omarshabana.netlify.app/)
+🌐 **Live site:** [omarshabana.me](https://omarshabana.me/)
 
 ---
 
